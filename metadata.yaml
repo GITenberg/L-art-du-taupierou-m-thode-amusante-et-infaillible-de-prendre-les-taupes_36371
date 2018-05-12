@@ -1,0 +1,34 @@
+_repo: L-art-du-taupierou-m-thode-amusante-et-infaillible-de-prendre-les-taupes_36371
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36371-h/images/cover_sml.png
+creator:
+  author:
+    agent_name: Dralet, M. (Etienne François)
+    aliases:
+    - Dralet, Etienne François
+    - Dralet, Étienne François
+    - Dralet, Etienne Francois
+    birthdate: 1754
+    deathdate: 1844
+    gutenberg_agent_id: '38233'
+    url: http://www.gutenberg.org/2009/agents/38233
+    wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne-Fran%C3%A7ois_Dralet
+description: ''
+gutenberg_bookshelf:
+- FR Métiers et Artisanat
+- FR Sciences et Techniques
+gutenberg_issued: '2011-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36371'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moles (Animals)'
+- !lcc 'SB'
+title: L'art du taupier; ou, méthode amusante et infaillible de prendre les taupes
+url: http://www.gutenberg.org/ebooks/36371
